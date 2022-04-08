@@ -11,9 +11,13 @@
   "dependencies": {
     "@aws-amplify/cli": "^8.0.0",
     "@aws-amplify/ui-react": "^1.2.26",
+    "eslint-plugin-react-hooks": "^4.5.0-next-057915477-20220407",
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-markdown": "^8.0.2",
+    "react-simplemde-editor": "^5.0.2",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
